@@ -1,0 +1,14 @@
+title: Tools Browser বাংলা ব্লগ
+description: Web Development ও Mobile Tech শেখার জন্য একটি বাংলা টেক ব্লগ
+theme: minima
+
+url: "https://soumitra88875.github.io"
+baseurl: "/tools-browser-bangla-blog"
+
+permalink: /:year/:month/:day/:title.html
+
+markdown: kramdown
+paginate: 1
+paginate_path: "/page:num/"
+plugins:
+  - jekyll-paginate
