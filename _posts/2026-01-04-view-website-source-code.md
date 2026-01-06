@@ -2,6 +2,7 @@
 layout: post
 title: "🔥 View Any Website’s HTML, CSS, JavaScript Source Code Directly from Mobile — Easily with Tools Browser (No PC or Laptop Needed)"
 date: 2026-01-04 16:10:00 +0530
+pinned: true
 thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/view_source_code_blog/20260104_213018.png
 ---
 
