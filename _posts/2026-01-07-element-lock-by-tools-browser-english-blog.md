@@ -1,3 +1,4 @@
+---
 layout: post
 title: "🔐 Element Lock – Customize websites your way Live design changes, customize any website your way without code"
 date: 2026-01-07 16:10:00 +0530
@@ -370,10 +371,3 @@ please support us with ⭐⭐⭐⭐⭐ on Play Store ❤️
 Stay healthy,  
 stay well,  
 and customize the web your way with Tools Browser 😎🔥
-
----
-
-If you want, I can also make  
-Thumbnail text,  
-SEO title,  
-Meta description 🚀
