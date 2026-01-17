@@ -2,7 +2,6 @@
 layout: post
 title: "Ads Blocker, Firewall-Style Protection: Complete Guide to Control Redirect, Popup & Banner Ads with Tools Browser"
 date: 2026-01-15 16:10:00 +0530
-pinned: true
 thumbnail: https://raw.githubusercontent.com/soumitra88875/tools-browser-blog-image/main/ads-blocker/blog6_thumb.png
 ---
 
